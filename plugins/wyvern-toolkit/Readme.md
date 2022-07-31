@@ -15,6 +15,14 @@ Preloader module helps you to enable Loader on your website while your website i
 - Click on the `Save` button for Changes.
 - Browse the website to see the recently changed Preloader on website load. 
 
+## Screenshots
+
+|  |  |
+| ----------- | ----------- |
+| Preloader ![Preloader](images/screenshot8.png) | Select Preloader ![Select Preloader](images/screenshot9.png) |
+
+
+
 ### Google Font
 Google Font module helps you to enable a local font loading option rather than a CDN URL. Here are the steps below to configure Google Font on your website.
 
@@ -22,6 +30,14 @@ Google Font module helps you to enable a local font loading option rather than a
 - Click on the `Customize button`.
 - Search For the font you need to use in your theme/page.
 - Click on the `download font` button.
+
+## Screenshots
+
+|  |  |
+| ----------- | ----------- |
+| Empty Fonts ![Empty Fonts](images/screenshot2.png) | Search Fonts ![Search Fonts](images/screenshot3.png) |
+| Download Font ![Download Font](images/screenshot5.png) | Uses ![Uses](images/screenshot4.png) |
+
 
 ### Import Export
 Import Export module helps you to import/export your `customizer`, `widgets`, and `content` of your website. Before Importing You need to export Your data first. Here are the steps below to configure the Import / Export option on your website.
@@ -35,3 +51,9 @@ Import Export module helps you to import/export your `customizer`, `widgets`, an
     - `Export Contents`
 - After Selecting the option. You can `export` and `download` the data.
 - If you have a wyvern toolkit exported zip file then simply go to the import tab to import the downloaded data.
+
+## Screenshots
+
+|  |  |
+| ----------- | ----------- |
+| Import ![Import](images/screenshot6.png) | Export ![Export](images/screenshot7.png) |
