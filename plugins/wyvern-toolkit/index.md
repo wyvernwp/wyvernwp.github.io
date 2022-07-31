@@ -38,8 +38,6 @@ Google Font module helps you to enable a local font loading option rather than a
 
 ## Screenshots
 
-|  |  |
-| ----------- | ----------- |
 | Empty Fonts ![Empty Fonts](images/screenshot2.png) | Search Fonts ![Search Fonts](images/screenshot3.png) |
 | Download Font ![Download Font](images/screenshot5.png) | Uses ![Uses](images/screenshot4.png) |
 
