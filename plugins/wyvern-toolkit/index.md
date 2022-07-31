@@ -22,8 +22,6 @@ Preloader module helps you to enable Loader on your website while your website i
 
 ## Screenshots
 
-|  |  |
-| ----------- | ----------- |
 | Preloader ![Preloader](images/screenshot8.png) | Select Preloader ![Select Preloader](images/screenshot9.png) |
 
 
@@ -57,6 +55,4 @@ Import Export module helps you to import/export your `customizer`, `widgets`, an
 
 ## Screenshots
 
-|  |  |
-| ----------- | ----------- |
 | Import ![Import](images/screenshot6.png) | Export ![Export](images/screenshot7.png) |
